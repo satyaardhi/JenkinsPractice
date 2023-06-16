@@ -6,6 +6,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("-----*****Hello World and Welcome to Jenkins Training*****-----");
 		System.out.println("Made Some Changes");
+		System.out.println("Made some more changes");
 	}
 
 }
